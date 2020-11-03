@@ -57,4 +57,5 @@ def main(fn):
 
 
 if __name__ == '__main__':
+    # main("./222.jpg")
     main(sys.argv[1])
